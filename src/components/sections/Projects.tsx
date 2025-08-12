@@ -33,7 +33,7 @@ const projects = [
     description: 'A comprehensive food ordering and management system with features for both customers and administrators. Built with PHP and Laravel, featuring user registration, menu management, cart functionality, and order tracking. Includes a powerful admin panel for managing food items, categories, and orders.',
     image: require('../images/frozenfry.jpg'),
     technologies: ['PHP', 'MySQL', 'Laravel', 'Bootstrap', 'JQuery', 'Ajax'],
-    github: 'https://github.com/pateljenish9878/Frozen-N-Fry',
+    github: 'https://github.com/pateljenish9878/Frozen-Fry',
     live: 'http://frozenfry.duckdns.org/',
     featured: false,
   },
